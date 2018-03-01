@@ -6,3 +6,4 @@ print name
 # This for loop will print the variable "name" 100 times
 for x in range(100):
 	print name
+# Added extra line from github
