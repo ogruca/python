@@ -1,4 +1,0 @@
-
-names = ["Ben", "Sally", "Amy", "George", "Randy"]
-
-print(names)
