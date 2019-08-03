@@ -16,8 +16,8 @@ import shutil
 import pdb
 
 # requests.packages.urllib3.disable_warnings()
-USER = "s34866"
-PASSWORD = "home4589"
+USER = "xxxx"
+PASSWORD = "xxxxx"
 
 ROUTERSIOS = open('/home/ogruca/scripts/pythonscripts/prime/inventory/ROUTERS-IOS', 'w')
 ROUTERSIOSXE = open('/home/ogruca/scripts/pythonscripts/prime/inventory/ROUTERS-IOS-XE', 'w')
